@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\models\\fruitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:models\\fruitmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EBF494-95DF-464A-9D9A-E0CF713E96FB}|FruitWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T21:25:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T21:25:12.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T21:22:02.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T21:21:43.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FruitModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Models\\FruitModel.cs",
+              "RelativeDocumentMoniker": "Models\\FruitModel.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Models\\FruitModel.cs",
+              "RelativeToolTip": "Models\\FruitModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:55:30.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Add.cshtml.cs",
+              "RelativeToolTip": "Pages\\Add.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wCoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T21:06:34.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Add.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Add.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Add.cshtml",
+              "RelativeToolTip": "Pages\\Add.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T21:06:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:58:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:56:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitWebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T20:55:34.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

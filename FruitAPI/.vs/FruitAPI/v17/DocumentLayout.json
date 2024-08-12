@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitapi\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|solutionrelative:fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitapi\\fruitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|solutionrelative:fruitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|c:\\users\\pc\\onedrive\\proyectos\\desarrollo web\\asp.net\\fruitapi_backfront\\fruitapi\\fruitapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{191A19D8-4365-4B8B-9CDF-F90FADEBE2AB}|FruitAPI.csproj|solutionrelative:fruitapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FruitAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\FruitAPI.csproj",
+              "RelativeDocumentMoniker": "FruitAPI.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\FruitAPI.csproj",
+              "RelativeToolTip": "FruitAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T20:48:51.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\Fruit.cs",
+              "RelativeDocumentMoniker": "Fruit.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\Fruit.cs",
+              "RelativeToolTip": "Fruit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:48:27.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:44:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FruitDb.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\FruitDb.cs",
+              "RelativeDocumentMoniker": "FruitDb.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Proyectos\\Desarrollo Web\\ASP.NET\\FruitAPI_BackFront\\FruitAPI\\FruitDb.cs",
+              "RelativeToolTip": "FruitDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T20:44:02.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
